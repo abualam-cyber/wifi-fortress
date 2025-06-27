@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WiFi Fortress
+Exec=/usr/local/bin/wifi-fortress
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;Network;Security;
+Comment=WiFi Security Audit Toolkit

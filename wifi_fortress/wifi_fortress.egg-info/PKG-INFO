@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: wifi_fortress
+Version: 1.0.0
+Requires-Dist: PyQt5==5.15.9
+Requires-Dist: scapy==2.5.0
+Requires-Dist: reportlab==4.0.4
+Requires-Dist: psutil==5.9.5
+Requires-Dist: netifaces==0.11.0
+Requires-Dist: cryptography==41.0.1
+Provides-Extra: dev
+Requires-Dist: pytest==7.4.0; extra == "dev"
+Requires-Dist: pytest-cov==4.1.0; extra == "dev"
+Requires-Dist: black==23.3.0; extra == "dev"
+Requires-Dist: pylint==2.17.4; extra == "dev"
+Requires-Dist: mypy==1.4.1; extra == "dev"
+Dynamic: provides-extra
+Dynamic: requires-dist

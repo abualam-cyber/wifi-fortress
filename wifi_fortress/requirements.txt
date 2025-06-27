@@ -1,0 +1,8 @@
+PyQt5
+scapy
+cryptography
+netifaces
+psutil
+pexpect
+pycryptodome
+pytest
